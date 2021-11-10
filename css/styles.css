@@ -1,0 +1,30 @@
+h1{
+		color : grey;
+		text-align: center;
+	}
+
+h2{
+		background-color: #0000ff;
+		width: 100px;
+			}
+.girl{
+		width: 300px;
+		height: 200px;
+		float: left;
+		background-color: grey;
+		border: solid;
+	}
+.blue{
+		background-color: grey;
+
+		width: 300px;
+		height: 200px;
+		float: right;
+		border: solid;
+		font-family: arial;
+	}	
+body{
+	margin: 0;
+	padding: 0;
+	
+}
