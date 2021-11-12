@@ -43,3 +43,6 @@ Borders and Colors: Each section should have a background color set to some colo
 (OPTIONAL) You will NOT be graded on this, but you may want to explicitly set a font-family for the text in your page, so you are not stuck with the default browser font family. Also, set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text.
 
 Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
+
+![desktop](https://user-images.githubusercontent.com/70192418/141545259-6e318035-95bf-48ed-8bdd-78b3c041ffd6.png)
+
