@@ -46,3 +46,10 @@ Here is the mockup illustration of the desktop version of the site. Your final r
 
 ![desktop](https://user-images.githubusercontent.com/70192418/141545259-6e318035-95bf-48ed-8bdd-78b3c041ffd6.png)
 
+Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
+![tablet](https://user-images.githubusercontent.com/70192418/141546532-c5932fa5-5504-4f54-9391-9c41e21e3668.png)
+
+
+Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
+![mobile](https://user-images.githubusercontent.com/70192418/141546667-d919593b-35a6-479e-bba4-aa7d297f4b71.png)
+
