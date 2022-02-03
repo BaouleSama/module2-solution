@@ -16,7 +16,7 @@ h1{
 
 /* center the containt wth equal edges  */
 body{
-    width: 991px;
+    max-width: 991px;
     margin: 0px auto;
     background-color: darkslategray;
 } 
